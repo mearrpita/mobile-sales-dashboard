@@ -37,7 +37,7 @@ Insight Generation
 
 📸 Dashboard Preview
 
-[Dashboard Screenshot](Screenshot.png)
+[Dashboard Screenshot](Screenshot 2025-11-18 135638.png)
 
 
 📬 Contact
