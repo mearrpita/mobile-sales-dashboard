@@ -13,6 +13,7 @@ Payment Method Distribution: Know the customer's payment preferences
 Customer Ratings: View satisfaction levels through rating distribution
 
 🛠️ Tools & Techniques Used
+
 Power BI Desktop
 Power Query for data cleaning and transformation
 Calculated Columns for creating additional fields
@@ -21,11 +22,13 @@ Slicers & Filters for interaction (Brand, Model, Month, Day, Payment Method)
 Interactive visual design for a smooth user experience
 
 📂 Project Files Included
+
 Mobile_Sales_Dashboard.pbix
 Dashboard screenshots (/Screenshots)
 This README.md
 
 🚀 Key Skills Demonstrated
+
 Data Cleaning & Preparation
 Understanding of Calculated Columns & Measures
 Data Modeling
@@ -33,7 +36,9 @@ Building Interactive Dashboards
 Insight Generation
 
 📸 Dashboard Preview
+
 ![Dashboard Screenshot](Screenshot.png)
+
 
 📬 Contact
 
