@@ -37,7 +37,7 @@ Insight Generation
 
 📸 Dashboard Preview
 
-![Dashboard Screenshot](Dashboard.png)
+![Dashboard Screenshot](Screenshot.png)
 
 
 
