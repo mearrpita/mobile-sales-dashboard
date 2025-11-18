@@ -37,15 +37,12 @@ Insight Generation
 
 📸 Dashboard Preview
 
-![Dashboard Screenshot](Screenshot.png)
+[Dashboard Screenshot](Screenshot.png)
 
 
 📬 Contact
 
 Feel free to connect if you have feedback or suggestions!
+
 LinkedIn: https://www.linkedin.com/in/mearrpita/
 
-
-Visual Storytelling
-
-📸 Dashboard Preview
