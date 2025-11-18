@@ -3,6 +3,7 @@ This project is an interactive Mobile Sales Dashboard built using Power BI. The 
 The goal of this project is to transform raw mobile sales data into clear, interactive insights that support better business decision-making.
 
 📊 Key Insights Provided by the Dashboard
+
 Overall Sales Summary: Total Sales, Quantity Sold, Total Transactions, and Average Price
 City-Level Sales Analysis: Identify top-performing cities
 Brand Comparison: View sales, quantity, and transactions across major brands
